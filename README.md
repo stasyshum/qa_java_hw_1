@@ -53,7 +53,7 @@ java -version (openjdk version "11.0.10" 2021-01-19)
 
  ### В результате тестирования выявлены следующие дефекты: ###
 
-1 [Баг-репорт №1 Не действительность банковских карт с меньшим числом символов Credit Card Number Validator](https://github.com/stasyshum/qa_java_hw_1/issues/2 )  
+1 [Баг-репорт №1 Не действительность банковских карт с меньшим числом символов Credit Card Number Validator](https://github.com/stasyshum/qa_java_hw_1/issues/5 )  
 1 [Баг-репорт №2 Не действительность банковских карт с большим числом символов Credit Card Number Validator](https://github.com/stasyshum/qa_java_hw_1/issues/2 )
 
 
