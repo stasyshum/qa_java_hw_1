@@ -8,9 +8,8 @@
 
  ### В результате тестирования выявлены следующие дефекты: ###
 
-1 [Не действительность валидного ключа №2 в KeyValidator.](https://github.com/stasyshum/qa_java_hw_1/issues/2 )  
-2 [Не действительность валидного ключа №4 в KeyValidator.](https://github.com/stasyshum/qa_java_hw_1/issues/3 )  
-3 [Действительность невалидного ключа № 5 в KeyValidator.](https://github.com/stasyshum/qa_java_hw_1/issues/4 )   
+1 [Баг-репорт №1 Не действительность валидных ключей №2 и №4 в KeyValidator.](https://github.com/stasyshum/qa_java_hw_1/issues/2 )  
+2 [Баг-репорт №2 Действительность невалидного ключа №5 в KeyValidator.](https://github.com/stasyshum/qa_java_hw_1/issues/4 )   
 
 
 ### Описание процесса тестирования
